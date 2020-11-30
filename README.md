@@ -1,7 +1,5 @@
 # Prueba técnica Java - SpringBoot
 
--> Expicación del proyecto Java (Estructura)
-
 -> Crear una nueva rama con tu nombre, apellido y fecha en formato YYYYDDMM (Ej. Nombre-Apellido-20200120)
 -> Una vez creada la rama, crear un fichero de texto con el nombre (Interview.txt) y el contenido tu nombre y apellido y subirlo al repositorio remoto.
 
