@@ -1,0 +1,11 @@
+Ledwin Belen
+
+Las Tecnologias usadas en el proyecto son:
+Spring Boot 2.4.0
+Maven 3.2.0
+Java 8
+Spring Cloud
+Servidor de aplicaciones Tomcat
+Hibernate
+Base de datos MySQL
+SAP Cloud 
